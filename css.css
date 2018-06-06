@@ -1,0 +1,14 @@
+div {
+	border: 1px solid #e4e4e4;
+	padding: 10px;
+}
+
+.car_list_1 {
+	float: left;
+	width: 48%;
+}
+
+.car_list_2 {
+	float: left;
+	width: 48%;
+}
